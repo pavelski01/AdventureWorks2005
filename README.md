@@ -3,7 +3,7 @@
 CREATE DATABASE AdventureWorks2005  
 ON  
 (   
-   FILENAME = 'PATH\TO\MDF\FILE'  
+&nbsp;&nbsp;FILENAME = 'PATH\TO\MDF\FILE'  
 )  
 LOG ON  
 (  
